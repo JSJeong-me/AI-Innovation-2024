@@ -1,5 +1,5 @@
 # AI-Innovation-2024
-AI 핵심 기술 집중 클래스 [[교안]](https://docs.google.com/document/d/1mrVh8Az1XITXfFIho2IWXSCRRXDgcKfig7ZuBJgNS_0/edit?usp=sharing)
+## AI 핵심 기술 집중 클래스 [[교안]](https://docs.google.com/document/d/1mrVh8Az1XITXfFIho2IWXSCRRXDgcKfig7ZuBJgNS_0/edit?usp=sharing)
 
 
 1. 교육과정명 : AI 핵심 기술 집중 클래스
