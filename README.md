@@ -9,3 +9,7 @@ AI 핵심 기술 집중 클래스 [[교안]](https://docs.google.com/document/d/
 
 
 3. 교육방식 : 실시간 비대면(ZOOM)
+
+
+
+![ai핵심](https://github.com/user-attachments/assets/d71a9e3b-aafa-40ac-9c12-acc48e813164)
