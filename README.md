@@ -11,8 +11,9 @@
 3. 교육방식 : 실시간 비대면(ZOOM)
 
 
-## 2024-08-26 [1-1 딥러닝의 역사와 발전](https://docs.google.com/document/d/10h2jkUKJnnMKm-x6EU8Ka0w-Ij1FsMLc/edit?usp=sharing&ouid=109265759411599372601&rtpof=true&sd=true
+## 2024-08-26 [1-1 딥러닝의 역사와 발전](https://docs.google.com/document/d/10h2jkUKJnnMKm-x6EU8Ka0w-Ij1FsMLc/edit?usp=sharing&ouid=109265759411599372601&rtpof=true&sd=true)
 
+    다양한 언어 모델(LLM)들
 
     인공지능 구현의 주요 주제들
     
