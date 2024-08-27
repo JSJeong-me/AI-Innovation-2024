@@ -29,11 +29,5 @@
 
     딥러닝
    
-    보고 듣고 말하기의 구현 과정
-    
-    컴퓨터 프로그램 진화 과정
-
-    함수형 언어란?
-
 
 ![ai핵심](https://github.com/user-attachments/assets/d71a9e3b-aafa-40ac-9c12-acc48e813164)
