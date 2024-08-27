@@ -26,8 +26,18 @@
 ## 2024-08-27 [1-2 기본적인 신경망 구조와 원리](https://docs.google.com/document/d/1xHWvY0SHUgdo_b7f35k5eJLLEAsNNljbeFjqPgjTXl0/edit?usp=sharing)
 
     머신러닝
+    - Predictive Analysis
+    - Data Exploration
+    - Regresson 과 Classification
+    - DecisionTree
 
     딥러닝
+    - Single Neuron
+    - Deep Neural Networks
+    - Stochastic Gradient Descent
+    - Overfitting and Underfitting
+    - Dropout and Batch Normalization
+    - Binary Classification
    
 
 ![ai핵심](https://github.com/user-attachments/assets/d71a9e3b-aafa-40ac-9c12-acc48e813164)
