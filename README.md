@@ -23,5 +23,17 @@
 
     함수형 언어란?
 
+## 2024-08-27 [1-2 기본적인 신경망 구조와 원리](https://docs.google.com/document/d/1xHWvY0SHUgdo_b7f35k5eJLLEAsNNljbeFjqPgjTXl0/edit?usp=sharing)
+
+    머신러닝
+
+    딥러닝
+   
+    보고 듣고 말하기의 구현 과정
+    
+    컴퓨터 프로그램 진화 과정
+
+    함수형 언어란?
+
 
 ![ai핵심](https://github.com/user-attachments/assets/d71a9e3b-aafa-40ac-9c12-acc48e813164)
