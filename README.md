@@ -39,5 +39,12 @@
     - Dropout and Batch Normalization
     - Binary Classification
    
+## 2024-08-28 [딥러닝 프레임워크(Pytorch) 소개 및 환경 구축](https://docs.google.com/document/d/1xHWvY0SHUgdo_b7f35k5eJLLEAsNNljbeFjqPgjTXl0/edit?usp=sharing)
+
+    Pytoch 로 Deep Learning 구현
+    - Tensor로 데이터 읽기
+    - Regression 분석
+    - Classification 분석
+
 
 ![ai핵심](https://github.com/user-attachments/assets/d71a9e3b-aafa-40ac-9c12-acc48e813164)
