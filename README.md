@@ -25,7 +25,7 @@
     
 
 
-## 2024-08-30 [1-5 기초 컴퓨터 비전 모델 소개: CNN](https://docs.google.com/document/d/12UhgoitCQeXXXEVeCLpTxHndGU1w_Smh46cGSDYNwKM/edit?usp=sharing)
+## 2024-08-30 [1-5 기초 컴퓨터 비전 모델 소개: CNN](https://docs.google.com/document/d/14lsGOcZz1Df66D-aTUe0b_TcyoV2PTQP3dsDszO8b_s/edit?usp=sharing)
 
     Convolution
 
