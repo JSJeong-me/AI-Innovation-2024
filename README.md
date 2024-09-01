@@ -17,31 +17,24 @@
 
 
 
-## 2024-08-29 [1-4 이미지 처리 기법과 알고리즘의 발전](https://docs.google.com/document/d/1cno-QrHX5fa4WOrHjFi4tCQ78Y_EGSsa-E_Mh2m_piE/edit?usp=sharing)
+## 2024-09-02 [2-1-CNN 모델의 역사: AlexNet부터 Vision Transformer까지](https://docs.google.com/document/d/1d_3xAuQMDdNr9NguGFOPeAh-lcuxLo2twii_9Mc7LKs/edit?usp=sharing)
 
-    전통적인 이미지 처리 기법
+    CNN 모델의 역사
 
-    머신러닝 기반 알고리즘
+    CNN 모델 실습
 
-    - CNN
-    - GAN
-    - ViT
-    - CLIP
-    - Diffusers
+    Pretrained 모델을 활용한 Vector Similarity
+
+    Prompt 실습
     
 
 
-## 2024-08-30 [1-5 기초 컴퓨터 비전 모델 소개: CNN](https://docs.google.com/document/d/14lsGOcZz1Df66D-aTUe0b_TcyoV2PTQP3dsDszO8b_s/edit?usp=sharing)
+## 2024-09-03 [2-2- GPU를 이용한 기본 학습(Google Colab): CNN](https://docs.google.com/document/d/1gOL4e7Vru_yi3gtCRwGt8CJB2ehx0UZxfnKJc35xWuE/edit?usp=sharing)
 
-    Convolution
+    Colab 활용
 
-    Convolution 과 ReLU
-
-    Maximum Pooling
-
-    Sliding Window
-
-    Data Augmentation
+    Object detection
+    
 
 
 
