@@ -25,7 +25,7 @@
 
     Pretrained 모델을 활용한 Vector Similarity
 
-    Prompt 실습
+    Prompt를 활용한 모델 구현
     
 
 
