@@ -10,6 +10,12 @@
 
 3. 교육방식 : 실시간 비대면(ZOOM)
 
+|     2024-09-02       |     2024-09-03    | 2024-09-04   | 2024-09-05 | 2024-09-06    |
+|----------------------|-------------------|--------------|------------|---------------|
+| Image Classification | Object Detection  | Segmentation | Diffuser   | Image Caption |
+
+
+
 
 ## 2024-08-29 [1-4 이미지 처리 기법과 알고리즘의 발전](https://docs.google.com/document/d/1cno-QrHX5fa4WOrHjFi4tCQ78Y_EGSsa-E_Mh2m_piE/edit?usp=sharing)
 
