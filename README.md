@@ -34,6 +34,8 @@
     Colab 활용
 
     Object detection
+
+    Custom Data Object detection 학습
     
 
 
