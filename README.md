@@ -39,7 +39,7 @@
 
     IoU
 
-    동영 Object detection 학습
+    동영상 Object detection 학습
 
     
 ## 2024-09-04 [2-3-CNN 모델의 성능향상 기법](https://docs.google.com/document/d/1-YrPccbqQxoX2phM0Isvzek4FNS_ovlXKSWxImV7hTY/edit?usp=sharing)
@@ -54,7 +54,12 @@
 
     특징 추출 (Feature Extraction)
 
-    Vision Tasks:  image segmentation, key points
+
+## 2024-09-05 [2-4-Transfer Learning](https://docs.google.com/document/d/1if3jATXuf7DvxxusUd-ICk36ZQcVJCGgSy1KeWXuh0c/edit?usp=sharing)
+
+    Transfer Learning
+
+    Fine-tuning
 
 
 ![ai핵심](https://github.com/user-attachments/assets/d71a9e3b-aafa-40ac-9c12-acc48e813164)
