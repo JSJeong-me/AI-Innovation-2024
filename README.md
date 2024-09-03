@@ -64,4 +64,14 @@
     Diffuser model 의 활용
 
 
+## 2024-09-06 [Pretrained models: Torch hub](https://docs.google.com/document/d/1mrVh8Az1XITXfFIho2IWXSCRRXDgcKfig7ZuBJgNS_0/edit?usp=sharing)
+
+    Torch hub
+
+    Huggingface
+
+    Image Caption
+
+    
+
 ![ai핵심](https://github.com/user-attachments/assets/d71a9e3b-aafa-40ac-9c12-acc48e813164)
