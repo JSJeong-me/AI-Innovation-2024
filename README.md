@@ -23,6 +23,8 @@
 
     CNN 모델 실습
 
+    Vision Tasks: Image Classification
+    
     Pretrained 모델을 활용한 Vector Similarity
 
     Prompt를 활용한 모델 구현
@@ -33,11 +35,26 @@
 
     Colab 활용
 
-    Object detection
+    Vision Tasks:  Object detection
 
-    Custom Data Object detection 학습
+    IoU
+
+    동영 Object detection 학습
+
     
+## 2024-09-04 [2-3-CNN 모델의 성능향상 기법](https://docs.google.com/document/d/1-YrPccbqQxoX2phM0Isvzek4FNS_ovlXKSWxImV7hTY/edit?usp=sharing)
 
+    데이터 증강 (Data Augmentation)
+
+    네트워크 구조 개선 (Network Architecture Improvement)
+
+    정규화 기법 (Normalization Techniques)
+
+    하이퍼파라미터 튜닝 (Hyperparameter Tuning)
+
+    특징 추출 (Feature Extraction)
+
+    Vision Tasks:  image segmentation, key points
 
 
 ![ai핵심](https://github.com/user-attachments/assets/d71a9e3b-aafa-40ac-9c12-acc48e813164)
