@@ -61,5 +61,7 @@
 
     Fine-tuning
 
+    Diffuser model 의 활용
+
 
 ![ai핵심](https://github.com/user-attachments/assets/d71a9e3b-aafa-40ac-9c12-acc48e813164)
