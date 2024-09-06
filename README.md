@@ -66,7 +66,7 @@
 
 ## 2024-09-06 [2-5-Pretrained models: Torch hub](https://docs.google.com/document/d/1mrVh8Az1XITXfFIho2IWXSCRRXDgcKfig7ZuBJgNS_0/edit?usp=sharing)
 
-    Torch hub / Tensorhub
+    Torch hub / Tensorflow hub
 
     Huggingface
 
