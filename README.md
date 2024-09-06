@@ -64,7 +64,7 @@
     Diffuser model 의 활용
 
 
-## 2024-09-06 [2-5-Pretrained models: Torch hub](https://docs.google.com/document/d/1mrVh8Az1XITXfFIho2IWXSCRRXDgcKfig7ZuBJgNS_0/edit?usp=sharing)
+## 2024-09-06 [2-5-Pretrained models: Torch hub](https://docs.google.com/document/d/1z-dIokEzgrJQxOOWQgUGdU3uBCGSrCv9zWKX1GeuoZk/edit?usp=sharing)
 
     Torch hub / Tensorflow hub
 
