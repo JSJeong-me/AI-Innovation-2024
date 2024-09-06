@@ -64,13 +64,13 @@
     Diffuser model 의 활용
 
 
-## 2024-09-06 [Pretrained models: Torch hub](https://docs.google.com/document/d/1mrVh8Az1XITXfFIho2IWXSCRRXDgcKfig7ZuBJgNS_0/edit?usp=sharing)
+## 2024-09-06 [2-5-Pretrained models: Torch hub](https://docs.google.com/document/d/1mrVh8Az1XITXfFIho2IWXSCRRXDgcKfig7ZuBJgNS_0/edit?usp=sharing)
 
-    Torch hub
+    Torch hub / Tensorhub
 
     Huggingface
 
-    Image Caption
+    Image Caption - Multimodality
 
     
 
