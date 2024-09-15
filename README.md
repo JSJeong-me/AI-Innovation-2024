@@ -69,65 +69,64 @@
 
 ### OpenCV 영상 분할과 객체 검출 강의 주제 제목 정리
 
-1. **영상 분할 (Image Segmentation)**
-2. **객체 검출 (Object Detection)**
-3. **OpenCV 적용**
-4. **응용 분야**
+    1. **영상 분할 (Image Segmentation)**
+    2. **객체 검출 (Object Detection)**
+    3. **OpenCV 적용**
+    4. **응용 분야**
  
 
 ## 2024-09-20 [3-7-Cascade 분류, HOG](https://docs.google.com/document/d/16rb8LzBI9hEPWwK4kmGer49TxcqO69sMyxeM13ezWR4/edit?usp=sharing)
 
-1. **Cascade 분류기 (Haar Cascade Classifier)**
-2. **HOG (Histogram of Oriented Gradients)**
-3. **Cascade 분류기와 HOG 비교 및 선택 기준**
-4. **실습 및 코드 구현**
+    1. **Cascade 분류기 (Haar Cascade Classifier)**
+    2. **HOG (Histogram of Oriented Gradients)**
+    3. **Cascade 분류기와 HOG 비교 및 선택 기준**
+    4. **실습 및 코드 구현**
 
 
 
 ## 2024-09-23 [3-8-객체추적: 배경차분(MOG)](https://docs.google.com/document/d/1TbqVSE0La-4UDx4PddGskKHFUB0SHgIf9VIqeTUPizA/edit?usp=sharing)
 
-1. 객체 추적(Object Tracking) 개요  
-2. 배경 차분 기법(Background Subtraction)  
-3. MOG(Mixture of Gaussians) 알고리즘  
-4. MOG 적용 단계  
-5. MOG의 장점  
-6. MOG의 단점 및 해결 방안  
-7. OpenCV에서 MOG 사용  
-8. 요약
+    1. 객체 추적(Object Tracking) 개요  
+    2. 배경 차분 기법(Background Subtraction)  
+    3. MOG(Mixture of Gaussians) 알고리즘  
+    4. MOG 적용 단계  
+    5. MOG의 장점  
+    6. MOG의 단점 및 해결 방안  
+    7. OpenCV에서 MOG 사용  
+    8. 요약
 
 
 ## 2024-09-24 [3-9-OpenCV 머신 러닝 클래스](https://docs.google.com/document/d/1p_k460OyAu0fS_DpQCQk7vMZJJD7e0otPF9D-RhdIqU/edit?usp=sharing)
 
-1. 머신 러닝 기본 개념 소개  
-2. OpenCV에서 지원하는 주요 머신 러닝 알고리즘  
-3. 데이터 전처리 및 특징 선택  
-4. 교차 검증과 모델 평가  
-5. 실습: OpenCV와 머신 러닝  
-6. 고급 주제: 딥러닝과 OpenCV 
+    1. 머신 러닝 기본 개념 소개  
+    2. OpenCV에서 지원하는 주요 머신 러닝 알고리즘  
+    3. 데이터 전처리 및 특징 선택  
+    4. 교차 검증과 모델 평가  
+    5. 실습: OpenCV와 머신 러닝  
+    6. 고급 주제: 딥러닝과 OpenCV 
 
 
 ## 2024-09-25 [3-10-OpenCV SVM 사용하기](https://docs.google.com/document/d/1stAHKGKFkXB5RdJo0sXfVOR0g4CHFPmxIdwSc0yoz_I/edit?usp=sharing)
 
-1. **SVM 개요**
-2. **OpenCV에서 SVM 활용**
-3. **SVM 모델 학습 과정**
-4. **SVM 예측**
-5. **커널 트릭(Kernel Trick)**
-6. **SVM 하이퍼파라미터 튜닝**
-7. **SVM 모델 평가**
-8. **실습: 이미지 분류**
-9. **SVM의 한계와 개선**
+    1. **SVM 개요**
+    2. **OpenCV에서 SVM 활용**
+    3. **SVM 모델 학습 과정**
+    4. **SVM 예측**
+    5. **커널 트릭(Kernel Trick)**
+    6. **SVM 하이퍼파라미터 튜닝**
+    7. **SVM 모델 평가**
+    8. **실습: 이미지 분류**
+    9. **SVM의 한계와 개선**
 
 
 ## 2024-09-26 [3-11-HOG SVM](https://docs.google.com/document/d/1joL_SIgGXCy1Yjs53kKy376atH1Cecvo94FPn_GftSI/edit?usp=sharing)
 
-1. **HOG와 SVM 개요**
-2. **HOG의 작동 원리**
-3. **SVM을 이용한 분류**
-4. **HOG + SVM을 활용한 객체 탐지**
-5. **실습: OpenCV로 HOG + SVM 구현**
-6. **HOG + SVM의 장점 및 한계**
-
+    1. **HOG와 SVM 개요**
+    2. **HOG의 작동 원리**
+    3. **SVM을 이용한 분류**
+    4. **HOG + SVM을 활용한 객체 탐지**
+    5. **실습: OpenCV로 HOG + SVM 구현**
+    6. **HOG + SVM의 장점 및 한계**
 
 
 
