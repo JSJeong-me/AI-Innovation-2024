@@ -106,7 +106,7 @@
     6. 고급 주제: 딥러닝과 OpenCV 
 
 
-## 2024-09-25 [3-10-OpenCV SVM 사용하기](https://docs.google.com/document/d/1stAHKGKFkXB5RdJo0sXfVOR0g4CHFPmxIdwSc0yoz_I/edit?usp=sharing)
+## 2024-09-25 [3-10-OpenCV SVM 사용하기](https://docs.google.com/document/d/1rdNR-mjUNeqIRUe5aYd_J3KWfNqzNGEyAVYkxsmwSaA/edit?usp=sharing)
 
     1. **SVM 개요**
     2. **OpenCV에서 SVM 활용**
@@ -119,7 +119,7 @@
     9. **SVM의 한계와 개선**
 
 
-## 2024-09-26 [3-11-HOG SVM](https://docs.google.com/document/d/1joL_SIgGXCy1Yjs53kKy376atH1Cecvo94FPn_GftSI/edit?usp=sharing)
+## 2024-09-26 [3-11-HOG SVM](https://docs.google.com/document/d/1wmHDl0NsI63WX9l8F2PvoCYsCbICIRN13UbxHUszs3M/edit?usp=sharing)
 
     1. **HOG와 SVM 개요**
     2. **HOG의 작동 원리**
