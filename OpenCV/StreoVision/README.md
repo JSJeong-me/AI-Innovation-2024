@@ -6,7 +6,7 @@
 
 [Also check out the video series on OAK](https://www.youtube.com/playlist?list=PLfYPZalDvZDLOjzSkoHQ2_h4joHNUegbB).
 
-[//]: [<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/p7xctat815pceyq/AAD7paBHUBa3Rq8WbLSvxbcAa?dl=1)
+<> [<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/p7xctat815pceyq/AAD7paBHUBa3Rq8WbLSvxbcAa?dl=1)
 
 ## Installation
 ```
